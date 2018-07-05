@@ -1,0 +1,203 @@
+body {
+  background-color: #4277f4;
+}
+
+h1, h2 {
+  font-family:'Ubuntu', sans-serif;
+  font-weight: regular;
+  color: white;
+  padding: 10px;
+  font-size: 60px;
+  letter-spacing: 3px;
+  text-shadow: 3px 4px 2px #ffa221;
+}
+.list-title {
+  font-family: Courier New, monospace;
+}
+.list-title li {
+  color: white;
+  font-size: 30px;
+  display: inline;
+  list-style-type: none;
+  border-right: 1px solid red;
+  padding-right: 15px;
+  margin-right: 20px;
+}
+
+.title {
+ font-family:'Ubuntu', sans-serif;
+  font-size: 35px;
+  font-weight: bold;
+  color: white;
+  
+}
+
+.words {
+  color: white;
+  font-family:'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  background-color: #ffa221;
+  margin: 5%;
+  padding: 2%;
+  border-radius: 5px;
+  box-shadow: -2px 3px 1px 2px #ce4906;
+  line-height: 155%;
+}
+
+.main-container {
+  background-color: #34e27d;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 20px 20px 80px 20px;
+  list-style: none;
+  height: 1300px;
+  
+  -ms-box-orient: horizontal;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: flex;
+  
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-align-items: stretch;
+  align-items: stretch;
+  border-radius: 10px;
+}
+
+.main-header {
+  background-color: #ffd749;
+  text-shadow: 3px 4px 2px #ffa221;
+  border-radius: 8px;
+  margin: auto;
+  position: relative;
+  text-align: center;
+  padding: 0px 10px 0 10px;
+  
+  animation-delay: 1.2s;
+  animation-direction: normal;
+  animation-duration: 2400ms;
+  animation-iteration-count: 1;
+  width: 40%;
+}
+
+.main-header p {
+  color: #ffa221;
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-size: 32px;
+  text-shadow: none;
+  margin: auto;
+  padding-bottom: 15px;
+  position: relative;
+  text-align: center;
+}
+
+
+.contact-box {
+  background-color: #26c972;
+  font-family: Courier New, monospace;
+  margin: auto;
+  position: relative;
+  text-align: center;
+  border-radius: 2px;
+}
+
+.contact-info li {
+  font-size: 20px;
+  display: inline;
+  list-style-type: none;
+  border-right: 1px solid #ffa221;
+  padding-right: 15px;
+  margin-right: 20px;
+}
+
+#last {
+  border: none;
+}
+
+.profile {
+  background-color: #26c972;
+  margin: 20px 30px;
+  position: relative;
+  text-align: center;
+  width: 80%;
+  border-radius: 2px;
+}
+
+.profile p {
+  padding: 20px;
+}
+
+.experience {
+  background-color: #26c972;
+  margin: auto;
+  width: 85%;
+  text-align: center;
+  border-radius: 2px;
+}
+
+
+.education {
+  background-color: #26c972;
+  margin: auto;
+  width: 85%;
+  text-align: center;
+  border-radius: 2px;
+  
+}
+
+.qualities {
+  background-color: #26c972;
+  margin: auto;
+  width: 85%;
+  text-align: center;
+  border-radius: 2px;
+}
+
+a: link {
+  color: green;
+  text-decoration: none;
+}
+
+a: visited {
+  color: green;
+  text-decoration: none;
+}
+
+a:hover {
+    color: hotpink;
+  text-decoration: none;
+}
+
+.content {
+  background-color: #34e27d;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 40px 20px 20px 20px;
+  list-style: none;
+  height: 2500px;
+  
+  -ms-box-orient: horizontal;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: flex;
+  
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-align-items: stretch;
+  align-items: stretch;
+  border-radius: 10px;
+}
