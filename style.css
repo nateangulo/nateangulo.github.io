@@ -2,6 +2,10 @@ body {
   background-color: #4277f4;
 }
 
+.image {
+width: 50%;
+}
+
 h1, h2 {
   font-family:'Ubuntu', sans-serif;
   font-weight: regular;
