@@ -7,7 +7,7 @@ body {
   width: 250px;
   height: 250px;
   image-rendering: pixelated;
-  padding-bottom: 25px;
+  padding-bottom: 10%;
 }
 
 h1, h2 {
