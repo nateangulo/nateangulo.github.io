@@ -22,7 +22,7 @@ h1, h2 {
   font-family: Courier New, monospace;
 }
 .list-title li {
-  color: white;
+  color: black;
   font-size: 30px;
   display: inline;
   list-style-type: none;
