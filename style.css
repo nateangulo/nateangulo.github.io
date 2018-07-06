@@ -40,16 +40,18 @@ h1, h2 {
 }
 
 .words {
-  color: white;
-  font-family:'Ubuntu', sans-serif;
-  font-weight: bold;
-  font-size: 22px;
-  background-color: #ffa221;
-  margin: 5%;
-  padding: 2%;
-  border-radius: 5px;
-  box-shadow: -2px 3px 1px 2px #ce4906;
-  line-height: 155%;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    background-color: #ffa221;
+    margin: 5%;
+    padding: 2%;
+    border-radius: 5px;
+    border-right: 3px solid floralwhite;
+    border-top: 3px solid white;
+    box-shadow: -6px 6px 1px 0px #ffa221;
+    line-height: 155%;
 }
 
 .main-container {
