@@ -40,7 +40,7 @@ h1, h2 {
 }
 
 .words {
-    color: white;
+      color: white;
     font-family: 'Ubuntu', sans-serif;
     font-weight: bold;
     font-size: 22px;
@@ -48,9 +48,8 @@ h1, h2 {
     margin: 5%;
     padding: 2%;
     border-radius: 5px;
-    border-right: 3px solid floralwhite;
-    border-top: 3px solid white;
-    box-shadow: -6px 6px 1px 0px #ffa221;
+    /* border-bottom: 3px solid white; */
+    box-shadow: 6px -4px 1px 0px #4277f4;
     line-height: 155%;
 }
 
