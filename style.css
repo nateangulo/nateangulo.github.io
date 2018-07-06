@@ -6,6 +6,7 @@ body {
   border-radius: 50%;
   width: 200px;
   height: 200px;
+  image-rendering: auto;
 }
 
 h1, h2 {
