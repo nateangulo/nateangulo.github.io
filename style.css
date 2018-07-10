@@ -22,7 +22,7 @@ h1, h2 {
   font-family: Courier New, monospace;
 }
 .list-title li {
-  color: black;
+  color: white;
   font-size: 30px;
   display: inline;
   list-style-type: none;
@@ -117,6 +117,7 @@ text-shadow: 3px 4px 2px #ffd749;
 .contact-box {
   background-color: #26c972;
   font-family: Courier New, monospace;
+  color: white;
   margin: auto;
   position: relative;
   text-align: center;
