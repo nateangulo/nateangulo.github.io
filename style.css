@@ -175,13 +175,13 @@ text-shadow: 3px 4px 2px #ffd749;
   border-radius: 2px;
 }
 
-a: link {
+a:link {
   color: green;
   text-decoration: none;
 }
 
-a: visited {
-  color: green;
+a:visited {
+  color: hotpink;
   text-decoration: none;
 }
 
