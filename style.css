@@ -80,7 +80,7 @@ h1, h2 {
 }
 
 .main-header {
-  background-color: #ffd749;
+  background-color: #34e27d;
   text-shadow: 3px 4px 2px #ffa221;
   border-radius: 8px;
   margin: auto;
@@ -101,7 +101,8 @@ text-shadow: 3px 4px 2px #ffd749;
 
 .main-header p {
   font-family:'Ubuntu', sans-serif;
-  color: #ffa221;
+  color: white;
+  font-family:'Ubuntu', sans-serif;
   font-weight: bold;
   letter-spacing: 2px;
   font-size: 45px;
