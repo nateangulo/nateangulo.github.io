@@ -218,3 +218,16 @@ a:hover {
   align-items: stretch;
   border-radius: 10px;
 }
+
+
+/*Media Query*/
+
+@media screen and (min-width: 375px) and (max-width: 812px) {
+  .img {
+    width: 50%;
+    height: 50%;
+  }
+  .main-header {
+  width: 100%;
+  }
+}
