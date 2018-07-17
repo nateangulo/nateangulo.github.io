@@ -96,7 +96,7 @@ h1, h2 {
 }
 
 .main-header h1 {
-  text-shadow: 3px 4px 2px #ffd749;
+  text-shadow: 3px 4px 2px #ffa221;
   padding: 0px;
 }
 
@@ -107,7 +107,7 @@ h1, h2 {
   font-weight: bold;
   letter-spacing: 2px;
   font-size: 45px;
-  text-shadow: 3px 4px 2px #ffd749;
+  text-shadow: 3px 4px 2px #ffa221;
   margin: auto;
   padding-top: 5px;
   padding-bottom: 15px;
