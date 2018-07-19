@@ -227,7 +227,14 @@ a:hover {
     width: 50%;
     height: 50%;
   }
+  .main-container {
+    width: 92%;
+    height: 90%; 
+  }
   .main-header {
   width: 100%;
+  }
+  .contact box {
+  width: 80%;
   }
 }
