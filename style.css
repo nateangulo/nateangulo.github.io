@@ -245,6 +245,7 @@ a:hover {
   }
   .contact-info li {
   font-size 18px;
+    border-right: none;
   }
   ul {
     text-align: left;
