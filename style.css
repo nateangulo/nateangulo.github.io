@@ -227,12 +227,19 @@ a:hover {
     width: 50%;
     height: 50%;
   }
+  h1, h2 {
+    font-size: 47px;
+    font-weight: bold;
+  }
   .main-container {
     width: 88%;
     height: 100%; 
   }
   .main-header {
-  width: 100%;
+    width: 100%;
+  }
+  .main-header p {
+  font-size: 47px;
   }
   .contact-box {
   width: 80%;
@@ -248,5 +255,10 @@ a:hover {
   .content {
   height: 100%;
   }
-
+  .experience,
+  .education,
+  .qualities {
+    padding: 5px;
+    margin: 5%;
+}
 }
