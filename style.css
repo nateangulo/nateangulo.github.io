@@ -226,6 +226,7 @@ a:hover {
   .img {
     width: 50%;
     height: 50%;
+    padding: 25px;
   }
   h1, h2 {
     font-size: 47px;
