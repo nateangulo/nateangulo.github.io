@@ -241,6 +241,9 @@ a:hover {
       display: table-row;
       border-right: none;
   }
+  .list-title-poop {
+    padding-left: 8%;
+  }
   .main-container {
     height: 100%; 
     border-radius: 10px;
