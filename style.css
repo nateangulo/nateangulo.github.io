@@ -224,7 +224,7 @@ a:hover {
 
 @media screen and (min-width: 375px) and (max-width: 812px) {
   .image {
-    width: 50%;
+    width: 75%;
     height: 50%;
     padding: 25px;
   }
