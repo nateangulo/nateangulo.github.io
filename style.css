@@ -233,6 +233,10 @@ a:hover {
     font-size: 47px;
     font-weight: bold;
   }
+  .list-title {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
   .list-title li {
       font-size: 25px;
       display: table-row;
